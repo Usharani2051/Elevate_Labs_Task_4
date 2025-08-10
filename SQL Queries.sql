@@ -1,3 +1,4 @@
+CREATE DATABASE ecommerce_db;
 USE ecommerce_db;
 
 -- Get all columns from the Orders table
