@@ -2,11 +2,10 @@
 
 # Internship Task – SQL for Data Analysis
 
-##  Overview
-This task was part of my Data Analyst Internship assignment.  
+##  Overview 
 The objective was to practice SQL for data extraction, manipulation, and analysis using an E-commerce dataset.
 
-## 📂 Dataset
+## Dataset
 The dataset consists of five CSV files:
 - **Customers.csv** – Customer details.
 - **Orders.csv** – Order details with dates and customer references.
@@ -16,12 +15,11 @@ The dataset consists of five CSV files:
 
 These files were imported into MySQL Workbench under the database **`ecommerce_db`**.
 
-## 🛠 Tools Used
+##  Tools Used
 - **MySQL Workbench** – Query execution and database management.
 - **Kaggle E-commerce Dataset** – Source data.
-- **GitHub** – Version control and submission.
 
-## 📑 Tasks Performed
+##  Tasks Performed
 
 ### 1. **Basic Queries**
 - `SELECT` with `WHERE` conditions.
@@ -52,21 +50,4 @@ These files were imported into MySQL Workbench under the database **`ecommerce_d
 - Counted total rows in each table to ensure data was loaded correctly.
 - Viewed first and last rows to confirm import order.
 
-## 📷 Screenshots
-Screenshots of SQL query execution and results are included in the `screenshots/` folder.
 
-## 🚀 How to Run
-1. Import the provided CSV files into MySQL Workbench under a database named `ecommerce_db`.
-2. Run the SQL script `task_queries.sql` included in this repository.
-3. Review the output in MySQL Workbench.
-
-## 📎 Files in This Repository
-- `task_queries.sql` – Contains all queries for the task.
-- `README.md` – This document.
-- `screenshots/` – Screenshots of query outputs.
-- `*.csv` – Dataset files.
-
----
-**Author:** [Your Name]  
-**Date:** [Submission Date]  
-**Internship Task:** SQL for Data Analysis
